@@ -1,9 +1,29 @@
+body {
+    background-color: #aaaaaa;
+    background-image: url( ../images/composition-book-cover-tile-attrib-req-electric-eye-flickr.jpg);
+}
+
+.portfolio-body {
+    background-color: #aaaaaa;
+    background-image: url( ../images/lined_paper.png);
+}
+
 .custom-fill-viewport {
     min-height: 100vh;
 } /* this is used to set the largest page containers to a minimum of the viewport height- changed from simply height since on smaller screens I want it to grow, just never not fill the screen*/
 
 .custom-full-height {
     min-height: 100%;
+}
+
+.jumbotron {
+    text-align: center;
+    line-height: 2rem;
+}
+
+.jumbotron h3 {
+    text-transform: uppercase;
+    text-decoration: underline;
 }
 
 .nav-pills .nav-link.active {
@@ -24,3 +44,19 @@
 .nav-pills .nav-link:hover, .nav-pills .nav-link:focus {
     text-decoration: underline;
 }
+
+footer div {
+    text-align: center;
+    font-size: 16px;
+}
+
+footer div.credits {
+    text-align: justify;
+    font-size: 14px;
+}
+
+footer div.credits a, footer div.credits a:link, footer div.credits a:hover {
+    text-decoration: underline;
+    color: #cccccc;
+}
+
