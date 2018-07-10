@@ -1,0 +1,26 @@
+.custom-fill-viewport {
+    min-height: 100vh;
+} /* this is used to set the largest page containers to a minimum of the viewport height- changed from simply height since on smaller screens I want it to grow, just never not fill the screen*/
+
+.custom-full-height {
+    min-height: 100%;
+}
+
+.nav-pills .nav-link.active {
+    color: #222222;
+    background-color: #ffffff;
+}
+
+.nav-pills .nav-link.active:hover {
+    color: #ffffff;
+    background-color: #999999;
+    text-decoration: none;
+}
+
+.nav-pills .nav-link {
+    color: #ffffff;
+}
+
+.nav-pills .nav-link:hover, .nav-pills .nav-link:focus {
+    text-decoration: underline;
+}
