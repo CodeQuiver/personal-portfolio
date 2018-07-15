@@ -3,6 +3,19 @@ body {
     background-image: url( ../images/composition-book-cover-tile-attrib-req-electric-eye-flickr.jpg);
 }
 
+/* a, a:link {
+    color: #31a2ac;
+} */
+
+.intro {
+    text-align: left;
+}
+
+a.btn, a.btn:link {
+    color: #ffffff;
+    text-decoration: none;
+}
+
 nav.custom-sidebar, nav.custom-sidebar ul, nav.custom-sidebar ul li {
     display: block;
     overflow-wrap: break-word;
@@ -50,6 +63,7 @@ nav.custom-sidebar {
 
 .nav-pills .nav-link {
     color: #ffffff;
+    text-decoration: none;
 }
 
 .nav-pills .nav-link:hover, .nav-pills .nav-link:focus {
