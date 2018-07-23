@@ -1,11 +1,23 @@
 body {
     background-color: #aaaaaa;
     background-image: url( ../images/composition-book-cover-tile-attrib-req-electric-eye-flickr.jpg);
+    font-family: FormaDJRMicro, Helvetica, Arial, sans-serif; 
+    font-style: normal; 
+    font-weight: normal; 
+    font-size: 16px;
 }
 
 /* a, a:link {
     color: #31a2ac;
 } */
+
+h1 {
+    font-family: FormaDJRDisplay, Helvetica, Arial, sans-serif; 
+    font-style: normal; 
+    font-weight: bold; 
+    font-size: 48px; 
+    line-height: 1.2em;
+}
 
 .intro {
     text-align: left;
@@ -42,12 +54,22 @@ nav.custom-sidebar {
 
 .jumbotron {
     text-align: center;
-    line-height: 2rem;
+    font-family: FormaDJRMicro, Helvetica, Arial, sans-serif; 
+    font-style: normal; 
+    font-weight: normal; 
+    font-size: 16px; 
+    line-height: 1.4em;
+
 }
 
 .jumbotron h3 {
-    text-transform: uppercase;
-    text-decoration: underline;
+    /* text-transform: uppercase; */
+    /* text-decoration: underline; */
+    font-family: FormaDJRDeck, Helvetica, Arial, sans-serif; 
+    font-style: italic; 
+    font-weight: normal; 
+    font-size: 30px; 
+    line-height: 1.4em;
 }
 
 .nav-pills .nav-link.active {
