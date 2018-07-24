@@ -3,4 +3,4 @@ Student Portfolio
 
 This is a simple portfolio for my student work while studying Web Development.
 
-Please note- The files for the "Forma" font used on this page are licensed specifically to me and not open-source in any way. If you like them, you may purchase your own license directly from the creator at https://djr.com/forma/.
+This repository contains DJR fonts that are licensed to PersephoneUnderground (under my real name). You can read the full text of the license in the /typography directory. You must obtain an appropriate license at <https://djr.com> before using these font files yourself.
