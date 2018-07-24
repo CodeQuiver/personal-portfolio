@@ -1,48 +1,54 @@
+/*IMPORTANT NOTICE:
+This repository contains DJR fonts that are licensed to PersephoneUnderground.
+You can read the full text of the license in the /typography directory.
+You must obtain an appropriate license at <https://djr.com> before using these font files yourself.*/
+
+
 @font-face {
-    src: url('fonts/FormaDJRMicro-Regular.eot'); /* IE < 9 */
-    src: url('fonts/FormaDJRMicro-Regular.eot?#') format("embedded-opentype"), /* IE 9 */
-         url('fonts/FormaDJRMicro-Regular.woff2') format("woff2"),
-         url('fonts/FormaDJRMicro-Regular.woff') format("woff");
+    src: url('fonts/FormaDJRMicro-Regular-licensed-to-PersephoneUnderground.eot'); /* IE < 9 */
+    src: url('fonts/FormaDJRMicro-Regular-licensed-to-PersephoneUnderground.eot?#') format("embedded-opentype"), /* IE 9 */
+         url('fonts/FormaDJRMicro-Regular-licensed-to-PersephoneUnderground.woff2') format("woff2"),
+         url('fonts/FormaDJRMicro-Regular-licensed-to-PersephoneUnderground.woff') format("woff");
     font-family: 'FormaDJRMicro';
     font-style: normal;
     font-weight: normal;
     }
 
 @font-face {
-    src: url('fonts/FormaDJRDeck-Regular.eot'); /* IE < 9 */
-    src: url('fonts/FormaDJRDeck-Regular.eot?#') format("embedded-opentype"), /* IE 9 */
-         url('fonts/FormaDJRDeck-Regular.woff2') format("woff2"),
-         url('fonts/FormaDJRDeck-Regular.woff') format("woff");
+    src: url('fonts/FormaDJRDeck-Regular-licensed-to-PersephoneUnderground.eot'); /* IE < 9 */
+    src: url('fonts/FormaDJRDeck-Regular-licensed-to-PersephoneUnderground.eot?#') format("embedded-opentype"), /* IE 9 */
+         url('fonts/FormaDJRDeck-Regular-licensed-to-PersephoneUnderground.woff2') format("woff2"),
+         url('fonts/FormaDJRDeck-Regular-licensed-to-PersephoneUnderground.woff') format("woff");
     font-family: 'FormaDJRDeck';
     font-style: normal;
     font-weight: normal;
     }
 
 @font-face {
-    src: url('fonts/FormaDJRDisplay-Regular.eot'); /* IE < 9 */
-    src: url('fonts/FormaDJRDisplay-Regular.eot?#') format("embedded-opentype"), /* IE 9 */
-         url('fonts/FormaDJRDisplay-Regular.woff2') format("woff2"),
-         url('fonts/FormaDJRDisplay-Regular.woff') format("woff");
+    src: url('fonts/FormaDJRDisplay-Regular-licensed-to-PersephoneUnderground.eot'); /* IE < 9 */
+    src: url('fonts/FormaDJRDisplay-Regular-licensed-to-PersephoneUnderground.eot?#') format("embedded-opentype"), /* IE 9 */
+         url('fonts/FormaDJRDisplay-Regular-licensed-to-PersephoneUnderground.woff2') format("woff2"),
+         url('fonts/FormaDJRDisplay-Regular-licensed-to-PersephoneUnderground.woff') format("woff");
     font-family: 'FormaDJRDisplay';
     font-style: normal;
     font-weight: normal;
     }
 
 @font-face {
-    src: url('fonts/FormaDJRDeck-Italic.eot'); /* IE < 9 */
-    src: url('fonts/FormaDJRDeck-Italic.eot?#') format("embedded-opentype"), /* IE 9 */
-         url('fonts/FormaDJRDeck-Italic.woff2') format("woff2"),
-         url('fonts/FormaDJRDeck-Italic.woff') format("woff");
+    src: url('fonts/FormaDJRDeck-Italic-licensed-to-PersephoneUnderground.eot'); /* IE < 9 */
+    src: url('fonts/FormaDJRDeck-Italic-licensed-to-PersephoneUnderground.eot?#') format("embedded-opentype"), /* IE 9 */
+         url('fonts/FormaDJRDeck-Italic-licensed-to-PersephoneUnderground.woff2') format("woff2"),
+         url('fonts/FormaDJRDeck-Italic-licensed-to-PersephoneUnderground.woff') format("woff");
     font-family: 'FormaDJRDeck';
     font-style: italic;
     font-weight: normal;
     }
 
 @font-face {
-    src: url('fonts/FormaDJRDisplay-Bold.eot'); /* IE < 9 */
-    src: url('fonts/FormaDJRDisplay-Bold.eot?#') format("embedded-opentype"), /* IE 9 */
-         url('fonts/FormaDJRDisplay-Bold.woff2') format("woff2"),
-         url('fonts/FormaDJRDisplay-Bold.woff') format("woff");
+    src: url('fonts/FormaDJRDisplay-Bold-licensed-to-PersephoneUnderground.eot'); /* IE < 9 */
+    src: url('fonts/FormaDJRDisplay-Bold-licensed-to-PersephoneUnderground.eot?#') format("embedded-opentype"), /* IE 9 */
+         url('fonts/FormaDJRDisplay-Bold-licensed-to-PersephoneUnderground.woff2') format("woff2"),
+         url('fonts/FormaDJRDisplay-Bold-licensed-to-PersephoneUnderground.woff') format("woff");
     font-family: 'FormaDJRDisplay';
     font-style: normal;
     font-weight: bold;

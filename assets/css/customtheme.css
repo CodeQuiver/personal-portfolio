@@ -95,16 +95,17 @@ nav.custom-sidebar {
 footer div {
     text-align: center;
     font-size: 16px;
+    color: #cccccc;
 }
 
 footer div.credits {
     text-align: justify;
-    font-size: 14px;
-    line-height: 16px;
+    font-size: 13px;
+    line-height: 15px;
 }
 
 footer div.credits a, footer div.credits a:link, footer div.credits a:hover {
     text-decoration: underline;
-    color: #cccccc;
+    color: #666666;
 }
 
